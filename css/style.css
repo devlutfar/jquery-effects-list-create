@@ -1,0 +1,121 @@
+.javascript_e{
+  text-align: center;
+  width:100%;
+  height: 70px;
+  overflow: hidden;
+}
+.javas_function{
+  margin:0 auto;
+  background-color: green;
+  font-size: 40px;
+  color:white;
+  text-align: center;
+  
+}
+
+.jquery_e{
+  text-align: center;
+  width:100%;
+  height: 20px;
+}
+.J_function{
+  margin:0 auto;
+  background-color: green;
+  font-size: 40px;
+  color:white;
+  text-align: center;
+}
+.c_h3{
+    text-align: center;
+    margin-top: 40px ;
+    border-bottom: 1px solid green;
+}
+
+.ques{
+    padding:20px 40px;
+    cursor:pointer;
+}
+.ans{
+    padding:20px 40px;
+    display:none;
+}
+
+.ques_2{
+    padding:20px 40px;
+    cursor:pointer;
+}
+.ans_2{
+    padding:20px 40px;
+    display:none;
+}
+
+.demo{
+    background-color: gray;
+    height: 150px;
+    display: none;
+}
+.demo_2{
+    background-color: red;
+    height: 150px;
+    
+}
+.demo_3{
+    background-color: green;
+    height: 150px;
+    
+}
+
+/* .change{
+    color:blue;
+} */
+
+
+/* submit start */
+.p_submit{
+    margin: 0;
+    color: blue;
+  }
+  .div,p {
+    margin-left: 10px;
+  }
+  .span {
+    color: red;
+  }
+
+  
+/* prop start */
+  p {
+    margin: 20px 0 0;
+  }
+  b {
+    color: blue;
+  }
+
+  /* data start */
+  .data_d {
+    margin: 5px;
+    background: yellow;
+  }
+  .data_b {
+    margin: 5px;
+    font-size: 14px;
+  }
+  .data_p {
+    margin: 5px;
+    color: blue;
+  }
+  .data_p {
+    color: green;
+  }
+
+   /* data end */
+
+   /* empty start */
+   .p_empty {
+    background: yellow;
+  }
+
+  /* empty end */
+  
+
+
